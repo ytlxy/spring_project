@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class hellocContoroller {
 @RequestMapping(path="/hello")
     public String sayhello(){
-        System.out.println("hello");
+        System.out.println("hello spring");
         return "success";
     }
 }
