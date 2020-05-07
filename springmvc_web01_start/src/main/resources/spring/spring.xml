@@ -12,5 +12,5 @@
         <property name="prefix" value="/WEB-INF/pages/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
-    <mvc:annotation-driven/>
+    <mvc:annotation-driven/><!--开启spring_mvc的注解支持-->
 </beans>
