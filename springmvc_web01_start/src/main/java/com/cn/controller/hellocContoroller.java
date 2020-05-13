@@ -23,12 +23,12 @@ public class hellocContoroller {
 //        System.out.println("测试");
 //        return "success";
 //    }
-    @RequestMapping(value = "getUser",consumes = "application/json")
+    @RequestMapping(value = "/getUser",consumes = "application/json")
     public String getUser(){
         System.out.println("consumers属性...");
         return "success";
     }
-    @RequestMapping(value = "getRest",produces = "text/html")
+    @RequestMapping(value = "/getRest",produces = "text/html")
     public String getRest(){
         System.out.println("produces属性。。。");
         return "success";
