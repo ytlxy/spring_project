@@ -1,10 +1,7 @@
 package com.cn.controller;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 @Controller
 @RequestMapping("/anno")
@@ -23,5 +20,24 @@ public class AnnoController {
     public String userPathVariable(@PathVariable("id") Integer id){
         System.out.println(id);
         return "success";
+    }
+    @RequestMapping("/testRequestheader")
+    public String testRequestheader(@RequestHeader(value = "Accept-Language") String header){
+        System.out.println("执行了:"+header);
+        return "success";
+    }
+    @RequestMapping("/testcookieValue")
+    public String testcookieValue(@CookieValue(value = "JSESSIONID") String cookicValue){
+        System.out.println("执行了:"+cookicValue);
+        return "success";
+    }
+    @RequestMapping("/testModelAttribute")
+    public String testModelAttribute(){
+        System.out.println("执行了");
+        return "success";
+    }
+    @ModelAttribute
+    public void showUser(){
+        System.out.println("showUser执行了");
     }
 }
