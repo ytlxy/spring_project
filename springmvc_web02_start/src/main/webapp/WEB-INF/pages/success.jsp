@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h3>入门成功！</h3><br/>
+<h3>入门成功！</h3>
 ${user.username}
 ${user.password}
 </body>

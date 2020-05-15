@@ -11,7 +11,9 @@
     <title>Title</title>
 </head>
 <body>
-<a href="user/testString">testString</a>
-<a href="user/testVoid">testVoid</a>
+<a href="user/testString">testString</a><br/>
+<a href="user/testVoid">testVoid</a><br/>
+<a href="user/testVoidSend">testVoidSend</a><br/>
+<a href="user/testVoidAnswer">testVoidAnswer</a>
 </body>
 </html>
