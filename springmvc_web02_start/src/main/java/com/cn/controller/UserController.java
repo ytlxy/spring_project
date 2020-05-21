@@ -3,7 +3,9 @@ package com.cn.controller;
 import com.cn.domain.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
@@ -83,5 +85,20 @@ public class UserController {
         users.add(user2);
         mv.addObject("users",users);
         return mv;
+    }
+    @RequestMapping("/testForwardAndRedirect")
+    public String testForwardAndRedirect(){
+        System.out.println("testForwardAndRedirect执行了");
+//        return "forward:/WEB-INF/pages/success.jsp";
+        return "redirect:/index.jsp";
+    }
+    @RequestMapping("/testAjax")
+    public @ResponseBody User/*void*/ testAjax(@RequestBody /*String body*/ User user){
+        System.out.println("testAjax执行了");
+        System.out.println(user);
+//        System.out.println(body);
+        user.setUsername("马总");
+        user.setAge(32);
+        return user;
     }
 }
