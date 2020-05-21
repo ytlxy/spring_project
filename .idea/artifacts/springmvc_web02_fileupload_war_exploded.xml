@@ -1,17 +1,17 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="springmvc_web02_start:war exploded">
-    <output-path>$PROJECT_DIR$/springmvc_web02_start/target/springmvc_web02_start</output-path>
+  <artifact type="exploded-war" name="springmvc_web02_fileupload:war exploded">
+    <output-path>$PROJECT_DIR$/springmvc_web02_fileupload/target/springmvc_web02_fileupload</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>springmvc_web02_start</module>
+        <module>springmvc_web02_fileupload</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="springmvc_web02_start" />
+          <element id="module-output" name="springmvc_web02_fileupload" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.2.RELEASE" />
@@ -48,9 +48,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/springmvc_web02_start/target/springmvc_web02_start/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/springmvc_web02_fileupload/target/springmvc_web02_fileupload/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="springmvc_web02_start/web/Web" />
+      <element id="javaee-facet-resources" facet="springmvc_web02_fileupload/web/Web" />
     </root>
   </artifact>
 </component>

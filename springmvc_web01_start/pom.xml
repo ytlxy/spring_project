@@ -35,6 +35,8 @@
     <jsp-api.version>2.2</jsp-api.version>
     <jstl.version>1.2</jstl.version>
     <standard.version>1.1.2</standard.version>
+    <jackson.version>2.10.3</jackson.version>
+    <jackson-core.version>2.11.0</jackson-core.version>
   </properties>
 
   <dependencies>
@@ -168,6 +170,21 @@
       <groupId>org.glassfish.web</groupId>
       <artifactId>jstl-impl</artifactId>
       <version>${jstl.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>${jackson.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>${jackson-core.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-annotations</artifactId>
+      <version>${jackson.version}</version>
     </dependency>
   </dependencies>
 

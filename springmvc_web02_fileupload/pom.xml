@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>springmvc_web02_start</artifactId>
+  <artifactId>springmvc_web02_fileupload</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>springmvc_web02_start Maven Webapp</name>
+  <name>springmvc_web02_fileupload Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -34,7 +34,6 @@
     <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
     <jsp-api.version>2.2</jsp-api.version>
     <jstl.version>1.2</jstl.version>
-    <standard.version>1.1.2</standard.version>
     <standard.version>1.1.2</standard.version>
     <jackson.version>2.10.3</jackson.version>
     <jackson-core.version>2.11.0</jackson-core.version>
@@ -170,10 +169,10 @@
       <version>${standard.version}</version>
     </dependency>
     <dependency>
-    <groupId>org.glassfish.web</groupId>
-    <artifactId>jstl-impl</artifactId>
-    <version>${jstl.version}</version>
-  </dependency>
+      <groupId>org.glassfish.web</groupId>
+      <artifactId>jstl-impl</artifactId>
+      <version>${jstl.version}</version>
+    </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
@@ -199,11 +198,10 @@
       <artifactId>commons-io</artifactId>
       <version>${commons-io.version}</version>
     </dependency>
-
   </dependencies>
 
   <build>
-    <finalName>springmvc_web02_start</finalName>
+    <finalName>springmvc_web02_fileupload</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
