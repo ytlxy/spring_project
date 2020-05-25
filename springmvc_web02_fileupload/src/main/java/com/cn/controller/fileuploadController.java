@@ -16,9 +16,9 @@ import java.util.List;
 import java.util.UUID;
 
 @Controller
-@RequestMapping("fileupload")
+@RequestMapping("/fileupload")
 public class fileuploadController {
-    @RequestMapping("fileupload1")
+    @RequestMapping("/fileupload1")
     public String fileupload1(HttpServletRequest request, HttpServletResponse response) throws Exception{
         System.out.println("文件上传...");
         String realPath=request.getSession().getServletContext().getRealPath("/uploads/");
@@ -41,7 +41,7 @@ public class fileuploadController {
         }
         return "success";
     }
-    @RequestMapping("fileupload2")
+    @RequestMapping("/fileupload2")
     public String fileupload2(HttpServletRequest request,MultipartFile upload) throws Exception {
         System.out.println("文件上传...");
         String realPath=request.getSession().getServletContext().getRealPath("/uploads/");
@@ -54,7 +54,7 @@ public class fileuploadController {
         upload.transferTo(new File(realPath+filename));
         return "success";
     }
-    @RequestMapping("fileupload3")
+    @RequestMapping("/fileupload3")
     public String fileupload3(MultipartFile upload){
         System.out.println("文件上传...");
         String path="http://localhost:9090/fileloadserver_war_exploded/uploads";
