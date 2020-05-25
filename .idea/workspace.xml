@@ -6,30 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="258cc21d-04fe-4a0e-a4e4-c6da9f04918f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/fileuploadserver_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/fileuploadserver_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_30_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_30_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileuploadserver/fileuploadserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileuploadserver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_fileupload_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_fileupload_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_fileupload/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_fileupload/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_fileupload/springmvc_web02_fileupload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_fileupload/springmvc_web02_fileupload.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/java/com/cn/controller/fileuploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/java/com/cn/controller/fileuploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/resources/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/resources/spring/spring.xml" afterDir="false" />
-    </list>
+    <list default="true" id="258cc21d-04fe-4a0e-a4e4-c6da9f04918f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +306,7 @@
       <workItem from="1590044513032" duration="6148000" />
       <workItem from="1590218935790" duration="4084000" />
       <workItem from="1590223043837" duration="1044000" />
-      <workItem from="1590369386340" duration="1862000" />
+      <workItem from="1590369386340" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="up data">
       <created>1588767122436</created>
@@ -422,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590051055156</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="up data">
+      <created>1590372754555</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590372754555</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
