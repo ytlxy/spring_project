@@ -9,9 +9,11 @@
         <module name="springmvc_web02_start" />
         <module name="springmvc_web01_start" />
         <module name="springmvc_web02_fileupload" />
+        <module name="fileuploadserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="fileuploadserver" target="1.8" />
       <module name="spring_project" target="1.8" />
       <module name="springmvc_web01_start" target="1.8" />
       <module name="springmvc_web02_fileupload" target="1.8" />

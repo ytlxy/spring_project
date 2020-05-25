@@ -12,6 +12,7 @@
         <module>springmvc_web01_start</module>
         <module>springmvc_web02_start</module>
         <module>springmvc_web02_fileupload</module>
+        <module>fileuploadserver</module>
     </modules>
 
     <properties>
@@ -40,6 +41,7 @@
         <jackson-core.version>2.11.0</jackson-core.version>
         <comm-fileypload.version>1.4</comm-fileypload.version>
         <commons-io.version>2.6</commons-io.version>
+        <jersey.version>1.18</jersey.version>
     </properties>
 
     <dependencyManagement>
@@ -199,6 +201,16 @@
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
                 <version>${commons-io.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.sun.jersey</groupId>
+                <artifactId>jersey-core</artifactId>
+                <version>${jersey.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.sun.jersey</groupId>
+                <artifactId>jersey-client</artifactId>
+                <version>${jersey.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

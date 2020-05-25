@@ -9,13 +9,14 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
-        <datasource-mapping />
+        <datasource-mapping>
+          <factory-entry name="springmvc_web02_fileupload" />
+        </datasource-mapping>
         <naming-strategy-map />
       </configuration>
     </facet>
@@ -72,5 +73,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
     <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.4" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jersey:jersey-core:1.18" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jersey:jersey-client:1.18" level="project" />
   </component>
 </module>
