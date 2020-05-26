@@ -13,6 +13,7 @@
         <module>springmvc_web02_start</module>
         <module>springmvc_web02_fileupload</module>
         <module>fileuploadserver</module>
+        <module>springmvc_web02_exception</module>
     </modules>
 
     <properties>
