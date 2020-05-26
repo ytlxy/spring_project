@@ -1,4 +1,4 @@
-package com.cn.utils;
+package com.cn.exception;
 
 import org.springframework.core.convert.converter.Converter;
 

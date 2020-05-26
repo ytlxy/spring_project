@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/user")
 public class userController {
     @RequestMapping("/testException")
-    public String testException(){
+    public String testException() throws Exception{
         System.out.println("testException执行了");
-        int a = 10/0;
+//        int a = 10/0;
         return "success";
     }
 }
