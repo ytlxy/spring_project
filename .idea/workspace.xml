@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="258cc21d-04fe-4a0e-a4e4-c6da9f04918f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_exception_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_exception_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/springmvc_web02_exception.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/java/com/cn/controller/userController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/resources/spring/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/webapp/WEB-INF/pages/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_exception/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,7 +313,7 @@
       <workItem from="1590392514305" duration="95000" />
       <workItem from="1590395036953" duration="624000" />
       <workItem from="1590396906980" duration="182000" />
-      <workItem from="1590474888703" duration="4718000" />
+      <workItem from="1590474888703" duration="7041000" />
     </task>
     <task id="LOCAL-00001" summary="up data">
       <created>1588767122436</created>
@@ -442,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590373427376</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="up data">
+      <created>1590482505725</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590482505725</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,10 +470,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589528482213" />
-    <state x="547" y="89" key="CommitChangelistDialog2" timestamp="1590373426453">
+    <state x="547" y="89" key="CommitChangelistDialog2" timestamp="1590482503612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="547" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590373426453" />
+    <state x="547" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590482503612" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590223078163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -510,22 +502,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1293" height="192" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589535204440" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1590478333843">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1590485449269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590478333843" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1590478333843">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590485449269" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1590485449268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590478333843" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1590478333842">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590485449268" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1590485449268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590478333842" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1590478333843">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590485449268" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1590485449269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590478333843" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590485449269" />
     <state width="1293" height="161" key="GridCell.Tab.1.bottom" timestamp="1590223023938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -602,10 +594,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590481976282" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590372791828">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590483212503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590372791828" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590483212503" />
     <state x="731" y="246" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589450305569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
