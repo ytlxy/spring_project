@@ -1,5 +1,6 @@
 package com.cn.controller;
 
+import com.cn.exception.SysException;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -7,9 +8,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/user")
 public class userController {
     @RequestMapping("/testException")
-    public String testException() throws Exception{
+    public String testException() throws SysException {
         System.out.println("testException执行了");
-//        int a = 10/0;
+        try {
+            int a = 10/0;
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw new SysException("查询出错");
+        }
         return "success";
     }
 }
