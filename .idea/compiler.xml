@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springmvc_web02_exception" />
-        <module name="springmvc_web02_start" />
-        <module name="springmvc_web01_start" />
-        <module name="springmvc_web02_fileupload" />
         <module name="fileuploadserver" />
+        <module name="springmvc_web02_exception" />
+        <module name="springmvc_web02_fileupload" />
+        <module name="springmvc_web01_start" />
+        <module name="springmvc_web02_interceptor" />
+        <module name="springmvc_web02_start" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="springmvc_web01_start" target="1.8" />
       <module name="springmvc_web02_exception" target="1.8" />
       <module name="springmvc_web02_fileupload" target="1.8" />
+      <module name="springmvc_web02_interceptor" target="1.8" />
       <module name="springmvc_web02_start" target="1.8" />
     </bytecodeTargetLevel>
   </component>

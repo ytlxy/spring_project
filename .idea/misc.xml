@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc_web01_start" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_web02_exception" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_web02_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_web02_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_web02_start" />
   </component>
   <component name="JavaScriptSettings">

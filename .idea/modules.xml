@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc_web01_start/springmvc_web01_start.iml" filepath="$PROJECT_DIR$/springmvc_web01_start/springmvc_web01_start.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc_web02_exception/springmvc_web02_exception.iml" filepath="$PROJECT_DIR$/springmvc_web02_exception/springmvc_web02_exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc_web02_fileupload/springmvc_web02_fileupload.iml" filepath="$PROJECT_DIR$/springmvc_web02_fileupload/springmvc_web02_fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_web02_interceptor/springmvc_web02_interceptor.iml" filepath="$PROJECT_DIR$/springmvc_web02_interceptor/springmvc_web02_interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc_web02_start/springmvc_web02_start.iml" filepath="$PROJECT_DIR$/springmvc_web02_start/springmvc_web02_start.iml" />
     </modules>
   </component>
