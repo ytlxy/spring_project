@@ -18,6 +18,7 @@
     <mvc:resources mapping="/js/**" location="/js/"/>
 <!--    <bean id="sysExceptionResolver" class="com.cn.exception.SysExceptionResolver">-->
 <!--    </bean>-->
+<!--    设置拦截器-->
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/user/*"/>

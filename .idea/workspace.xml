@@ -7,32 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="258cc21d-04fe-4a0e-a4e4-c6da9f04918f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_interceptor_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_web02_interceptor_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/springmvc_web02_interceptor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/java/com/cn/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/java/com/cn/interceptor/Myinterceptor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/java/com/cn/interceptor/Myinterceptor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/resources/spring/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/webapp/WEB-INF/pages/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/com/cn/controller/userController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/com/cn/controller/userController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/com/cn/exception/SysExceptionResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/com/cn/exception/SysExceptionResolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/classes/spring/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/com/cn/controller/userController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/com/cn/controller/userController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/com/cn/exception/SysExceptionResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/com/cn/exception/SysExceptionResolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/classes/spring/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/pages/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_exception/target/springmvc_web02_exception/WEB-INF/pages/error.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_fileupload/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc_web01_start/src/main/resources/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web01_start/src/main/resources/spring/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/resources/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_web02_interceptor/src/main/resources/spring/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +320,13 @@
       <workItem from="1590491200345" duration="421000" />
       <workItem from="1590492406546" duration="2609000" />
       <workItem from="1590539008331" duration="11119000" />
-      <workItem from="1590577451062" duration="2115000" />
+      <workItem from="1590577451062" duration="2197000" />
+      <workItem from="1590646251237" duration="997000" />
+      <workItem from="1590805424710" duration="2371000" />
+      <workItem from="1590819638884" duration="12000" />
+      <workItem from="1590820039049" duration="16000" />
+      <workItem from="1590821406723" duration="1195000" />
+      <workItem from="1590850022105" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="up data">
       <created>1588767122436</created>
@@ -485,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590542430415</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="up data">
+      <created>1590580229364</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590580229364</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,10 +511,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589528482213" />
-    <state x="547" y="89" key="CommitChangelistDialog2" timestamp="1590542428428">
+    <state x="547" y="89" key="CommitChangelistDialog2" timestamp="1590580226048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="547" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590542428428" />
+    <state x="547" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590580226048" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590491214230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -645,10 +635,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590481976282" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590542438366">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590580274966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590542438366" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590580274966" />
     <state x="731" y="246" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589450305569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
