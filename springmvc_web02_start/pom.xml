@@ -36,7 +36,7 @@
     <jstl.version>1.2</jstl.version>
     <standard.version>1.1.2</standard.version>
     <standard.version>1.1.2</standard.version>
-    <jackson.version>2.10.3</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <jackson-core.version>2.11.0</jackson-core.version>
     <comm-fileypload.version>1.4</comm-fileypload.version>
     <commons-io.version>2.6</commons-io.version>
