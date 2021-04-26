@@ -38,7 +38,7 @@
     <jackson.version>2.10.3</jackson.version>
     <jackson-core.version>2.11.0</jackson-core.version>
     <comm-fileypload.version>1.4</comm-fileypload.version>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <jersey.version>1.18</jersey.version>
   </properties>
 
