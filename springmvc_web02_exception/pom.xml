@@ -29,7 +29,7 @@
         <spring-web.version>5.2.2.RELEASE</spring-web.version>
         <c3p0.version>0.9.5.5</c3p0.version>
         <log4j-slf4j-impl.version>2.12.1</log4j-slf4j-impl.version>
-        <log4j-core.version>2.12.1</log4j-core.version>
+        <log4j-core.version>2.15.0</log4j-core.version>
         <slf4j.version>1.7.29</slf4j.version>
         <mysql-connector-java.version>5.1.47</mysql-connector-java.version>
         <javax.annotation-api.version>1.3.2</javax.annotation-api.version>
