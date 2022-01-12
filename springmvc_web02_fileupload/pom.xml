@@ -22,7 +22,7 @@
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
     <profiles.dir>src/main/profiles</profiles.dir>
     <resources.dir>src/main/resources</resources.dir>
-    <spring.version>5.2.2.RELEASE</spring.version>
+    <spring.version>5.3.14</spring.version>
     <spring-web.version>5.2.2.RELEASE</spring-web.version>
     <c3p0.version>0.9.5.5</c3p0.version>
     <log4j-slf4j-impl.version>2.12.1</log4j-slf4j-impl.version>
